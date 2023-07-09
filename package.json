@@ -1,0 +1,10 @@
+{
+  "name": "day41-nodejsbasics",
+  "version": "1.0.0",
+  "description": "this note priject",
+  "author": "Me",
+  "type": "module",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}
